@@ -1,0 +1,12 @@
+{
+  "name": "Google Docs Viewer from Context Menu",
+  "version": "1.0.0",
+
+  "description": "Adds context menu option to open links in Google Docs Viewer",
+
+  "background_page": "bg.html",
+  "permissions": [
+    "contextMenus",
+    "tabs"
+  ]
+}
